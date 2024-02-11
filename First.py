@@ -1,2 +1,2 @@
-x = input(what is your favorite number?)
+x = input("what is your favorite number?")
 print(x)
